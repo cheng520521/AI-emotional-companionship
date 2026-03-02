@@ -1,9 +1,8 @@
 # AI-emotional-companionship
+
+# EmotionAI: 基于大语言模型的情感智能体
 作为AI时代的畅想
 其中使用AI等进行完成自己对AI陪伴模型的想象。
-# EmotionAI: 基于大语言模型的情感智能体
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📖 项目简介
 

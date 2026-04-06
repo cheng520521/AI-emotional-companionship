@@ -1,5 +1,7 @@
 # AI-emotional-companionship
 
+状态：概念设计 / 代码未验证 / 硬件需求待满足
+
 # EmotionAI: 基于大语言模型的情感智能体
 作为AI时代的畅想
 其中使用AI等进行完成自己对AI陪伴模型的想象。
